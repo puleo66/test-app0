@@ -1,0 +1,12 @@
+Test App with 
+
+devise '~> 3.5', '>= 3.5.3'
+pundit '~> 1.1'
+
+rspec-rails '~> 3.4'
+factory_girl_rails '~> 4.5'
+capybara '~> 2.5'
+database_cleaner '~> 1.5', '>= 1.5.1'
+shoulda-matchers '~> 3.1'
+faker '~> 1.6', '>= 1.6.1'
+simplecov
